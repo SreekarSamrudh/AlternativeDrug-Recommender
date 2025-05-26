@@ -40,6 +40,7 @@ Pharmacies need to maintain details of medicine stock, suppliers, employees, cus
 Using the Pharmacy Management System, one can maintain stock and inventory, oversee transactions, manage suppliers and employees and maintains records of its customers. 
 The system will help prevent waste of time and resources, allow easy access to medicines, as well as ensure more security and reliability for the data compared to the manual systems. The system assists the pharmacy in handling the daily requirements in a smoother, better and effective manner. 
 
+Added chatbot to recommend alternative medicines 
 ## Objectives
 
 The main objectives/features of the system are:
@@ -91,6 +92,10 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 
 <img src="https://github.com/Varshini-E/Pharmacy-Management-System/blob/master/Screenshots/pharmacist-mainpage.png">
 
+#### chatbot
+
+![image](https://github.com/user-attachments/assets/cef1fa77-7ba0-415c-8304-ba8b94d61a42)
+
 ***Check out other screenshots showing interface functionality here: [Screenshots](Screenshots)***
 
 ## Database Architecture
@@ -132,18 +137,6 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 
 ## Additional Information
 
-- Check the triggers, procedures and functions for further understanding.
-- If a new employee has been added, login details for a new employee can only be added using the database server.
-- Admin login details can only be changed using the database server.
-- For major changes, please open an *issue* first to discuss what you would like to change.
+Note : This repo is from https://github.com/Varshini-E/Pharmacy-Management-System and i added chatbot function to complete project for Supply Chain Management
 
 *Feel free to contact for any further queries.*
-
-
-
-
-
-"# AlternativeDrug-Recommender" 
-"# Alternative-Drug-Recommender" 
-"# Alternative-Drug-Recommender" 
-"# AlternativeDrug-Recommender" 
