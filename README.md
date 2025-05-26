@@ -144,3 +144,4 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 
 
 "# AlternativeDrug-Recommender" 
+"# Alternative-Drug-Recommender" 
